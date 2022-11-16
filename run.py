@@ -6,4 +6,4 @@ except:
     os.system('pip2 install requests')
 
 import dumping
-dumping.menu()
+dumping.main()
